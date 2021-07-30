@@ -1,0 +1,15 @@
+.imageSec{
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.textSec2{
+    width: 60%;
+    height: auto;
+    min-width: 360px;
+    color: black;
+    margin:1rem auto;
+    margin-bottom: 7rem;
+    
+}

@@ -1,0 +1,26 @@
+.header{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 100vh !important;
+    
+}
+.textSec{
+    height: 300px;
+    width: 50%;
+    min-width: 350px;
+    color: gainsboro;
+    font-weight: 600;
+    margin-left: 2rem;
+    margin-top: 10rem;
+}
+.container-fluid{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-bottom: 0 !important;
+    
+}
